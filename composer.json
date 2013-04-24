@@ -1,5 +1,5 @@
 {
-    "name": "leafo/scssphp",
+    "name": "Regaddi/scssphp",
     "type": "library",
     "description": "scssphp is a compiler for SCSS written in PHP.",
     "homepage": "http://leafo.net/scssphp/",
